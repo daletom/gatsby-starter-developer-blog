@@ -20,30 +20,28 @@ module.exports = {
     rss: '/rss.xml',
   },
   tags: {
-    angular: {
-      description: 'Angular is an open source web application platform.',
+    imgix: {
+      description: 'imgix is an on-demand image solution.',
     },
-    electron: {
-      description:
-        'Electron is a framework for building cross-platform desktop applications with web technology.',
+    githubpages: {
+      name: 'Github Pages',
+      description: 'Github pages is an online.',
     },
     javascript: {
       description:
         'JavaScript is an object-oriented programming language used alongside HTML and CSS to give functionality to web pages.',
     },
-    laravel: {
-      description:
-        'Laravel is a PHP framework for building web applications following the MVC pattern.',
+    gatsby: {
+      description: 'Gatsby is a serverless ...',
     },
     nodejs: {
       name: 'Node.js',
       description:
         'Node.js is a tool for executing JavaScript in a variety of environments.',
     },
-    rxjs: {
-      name: 'RxJS',
-      description:
-        'RxJS is a library for reactive programming using Observables, to make it easier to compose asynchronous or callback-based code.',
+    netlify: {
+      name: 'Netlify',
+      description: 'Netlify is...',
     },
     sass: {
       description: 'Sass is a stable extension to classic CSS.',

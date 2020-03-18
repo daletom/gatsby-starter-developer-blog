@@ -1,7 +1,7 @@
 ---
 title: 'Testing Web Performance with Image Galleries'
 path: blog/image-gallery-perf-test
-tags: [javascript, angular, sass]
+tags: [javascript, gatsby, imgix, githubpages]
 cover: ./preview.png
 date: 2020-01-11
 excerpt: Best Performance for an Image Gallery.
